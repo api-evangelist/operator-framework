@@ -55,6 +55,8 @@ apis:
       - Scaffolding
       - SDK
 common:
+  - type: DomainSecurity
+    url: security/operator-framework-domain-security.yml
   - type: Documentation
     name: Operator Framework Documentation
     description: Official Operator Framework documentation.
