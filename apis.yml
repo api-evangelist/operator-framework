@@ -23,6 +23,13 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/operator-framework.png
 tags:
   - Automation
+  - Cloud-Native
+  - Incubating
+  - Kubernetes
+  - Lifecycle Management
+  - Operators
+tags_raw:
+  - Automation
   - Cloud Native
   - Incubating
   - Kubernetes
@@ -47,6 +54,10 @@ apis:
       - type: Documentation
         url: https://olm.operatorframework.io/docs/
     tags:
+      - Installations
+      - Lifecycle Management
+      - Updates
+    tags_raw:
       - Installation
       - Lifecycle Management
       - Updates
